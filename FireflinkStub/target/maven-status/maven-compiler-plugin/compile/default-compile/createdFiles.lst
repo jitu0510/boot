@@ -1,0 +1,11 @@
+com\fireflink\entities\Uid.class
+com\fireflink\Main.class
+com\fireflink\entities\Essentials.class
+com\fireflink\Config.class
+com\fireflink\FireflinkStubApplication.class
+com\fireflink\repository\AadharRepository.class
+com\fireflink\service\AadharService.class
+com\fireflink\entities\AadharNumber.class
+com\fireflink\controller\AadharValidationController.class
+com\fireflink\entities\ServiceWithEssentials.class
+com\fireflink\entities\ClientIdWithOtp.class
